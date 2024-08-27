@@ -5,3 +5,4 @@ CoderKit is an Xcode Source Editor Extension that provides GitHub Copilot and Co
 
 https://github.com/user-attachments/assets/cdf2a02a-c87e-4813-bfba-2a43336d1aa7
 
+![apppreview-novoice](https://github.com/user-attachments/assets/afcc339d-509a-4529-9c06-70f360fa5c1b)
