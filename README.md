@@ -19,9 +19,9 @@ CoderKit is an Xcode Source Editor Extension that provides GitHub Copilot and Co
 
 ## Installation and Setup
 
-> 1. Install the app into the Applications folder and run it to set up.
-> 2. As promoted, enable the source editor extension in MacOS system settings -> Privacy & Security -> Extensions -> Xcode Source Editor.
-> 3. Grant Accessibility API permission to the CoderKit extension app in MacOS system settings -> Privacy & Security -> Accessibility .
+1. Install the app into the Applications folder and run it to set up.
+2. As promoted, enable the source editor extension in MacOS system settings -> Privacy & Security -> Extensions -> Xcode Source Editor.
+3. Grant Accessibility API permission to the CoderKit extension app in MacOS system settings -> Privacy & Security -> Accessibility .
 > 4. In General tab, select Codeium or GitHub Copilot as your service provider.
 > 5. Accordingly, click Codeium or GitHub Copilot tab to follow the screen to set up.
 
