@@ -25,4 +25,10 @@ CoderKit is an Xcode Source Editor Extension that provides GitHub Copilot and Co
 4. In General tab, select Codeium or GitHub Copilot as your service provider.
 5. Accordingly, click Codeium or GitHub Copilot tab to follow the screen to set up.
 
+## Credits
+We get inspired a lot from the following projects and thus give special credits to them:
+[CopilotForXcode](https://github.com/intitni/CopilotForXcode)
+[codeium.vim](https://github.com/Exafunction/codeium.vim)
+[copilot.vim](https://github.com/github/copilot.vim)
+[LSP-copilot](https://github.com/TerminalFi/LSP-copilot)
 
