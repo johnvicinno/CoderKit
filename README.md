@@ -27,11 +27,8 @@ CoderKit is an Xcode Source Editor Extension that provides GitHub Copilot and Co
 
 ## Credits
 We get inspired a lot from the following projects and thus give special credits to them:
-[CopilotForXcode](https://github.com/intitni/CopilotForXcode)
-
-[codeium.vim](https://github.com/Exafunction/codeium.vim)
-
-[copilot.vim](https://github.com/github/copilot.vim)
-
-[LSP-copilot](https://github.com/TerminalFi/LSP-copilot)
+- [CopilotForXcode](https://github.com/intitni/CopilotForXcode)
+- [codeium.vim](https://github.com/Exafunction/codeium.vim)
+- [copilot.vim](https://github.com/github/copilot.vim)
+- [LSP-copilot](https://github.com/TerminalFi/LSP-copilot)
 
